@@ -30,3 +30,17 @@ Lossy Compression: While K-means clustering is a lossy compression technique (me
 it often achieves satisfactory results with minimal perceptual loss, especially when the number of clusters (colors) is chosen carefully
 
 
+------------------
+Team name:Red Team 
+------------------
+--------- team member ----------
+اسلام شريف غندر 
+محمود محمد الصادي 
+هاني محمد سعد
+امير عرفات مقبل
+معاذ السيد عبد الوكيل 
+
+
+
+
+
